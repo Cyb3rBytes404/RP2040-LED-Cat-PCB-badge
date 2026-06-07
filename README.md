@@ -83,20 +83,3 @@ Check the `challenges/` folder in this repo to find code templates for:
 > *"I promise to use my coding superpowers for good, to protect digital spaces, to fix glitches, and to help others stay safe online!"*
 
 Have fun coding your badge, and welcome to the regional **Cyb3rSpark619** team! 🐾
-
-# Basic Color Code
-# Black	(0,0,0)
-# White	(255,255,255)
-# Red	(255,0,0)
-# Lime	(0,255,0)
-# Blue	(0,0,255)
-# Yellow	(255,255,0)
-# Aqua	(0,255,255)
-# Magenta (255,0,255)
-# Gray	(128,128,128)
-# Maroon	(128,0,0)
-# Olive	(128,128,0)
-# Green	(0,128,0)
-# Purple	(128,0,128)
-# Teal	(0,128,128)
-# Navy	(0,0,128)
